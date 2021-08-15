@@ -8,7 +8,6 @@
 # Optional parameters:
 # @raycast.icon 🔻
 # @raycast.argument1 { "type": "text", "placeholder": "Name.md" }
-# @raycast.argument2 { "type": "text", "placeholder": "Editor" }
 # @raycast.packageName newmd
 
 # Documentation:
@@ -16,8 +15,7 @@
 # @raycast.author Tony
 
 cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/Masterloot
-touch $1.md
-mvim $1
+open $1.md
 
 
 echo ""
