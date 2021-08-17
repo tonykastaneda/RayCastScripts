@@ -4,7 +4,7 @@
 # @raycast.schemaVersion 1
 # @raycast.title Open Directory
 # @raycast.mode silent
-# @raycast.packageName mvim
+# @raycast.packageName mvim.
 #
 # Optional parameters:
 # @raycast.icon images/mvim.png

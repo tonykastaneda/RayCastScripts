@@ -4,7 +4,7 @@
 # @raycast.schemaVersion 1
 # @raycast.title Open Directory
 # @raycast.mode silent
-# @raycast.packageName code
+# @raycast.packageName code.
 #
 # Optional parameters:
 # @raycast.icon images/vscode.png
