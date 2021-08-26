@@ -14,3 +14,5 @@
 # @raycast.author Tony
 
 killall "Amethyst"
+
+echo "Amethyst Sucks"
