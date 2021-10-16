@@ -14,6 +14,7 @@
 # @raycast.author Tony
 
 brew services start yabai
+brew services start skhd
 
 
 echo "Rebooting"

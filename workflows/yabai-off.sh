@@ -14,6 +14,7 @@
 # @raycast.author Tony
 
 brew services stop yabai
+brew services stop skhd
 
 
 echo "Bro just install Amethyst"
